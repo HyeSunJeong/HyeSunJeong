@@ -1,4 +1,3 @@
-<h2>Hi 🤭</h2>
 <h3>☁ Introduction</h3>
 <p>my name is HyeSunJeong. I am a student.</p>
 <h3>🔎 Curiosity</h3>
