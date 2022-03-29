@@ -1,7 +1,6 @@
 ### Curiosity 🔍
 - WEB
 - Game
-- App
 ### Study 📝
 - HTML, CSS, JavaScript
 - C#, Unity
